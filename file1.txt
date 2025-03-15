@@ -1,1 +1,5 @@
-File 1
+<<<<<<< HEAD
+First file
+=======
+First file
+>>>>>>> branch1
